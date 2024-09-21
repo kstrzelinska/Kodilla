@@ -9,5 +9,4 @@ for i, j in shopping_list.items():
     capitalized_items = [item.capitalize() for item in j]
     print(f"Idę do {i.capitalize()} i kupuję tam: {', '.join(capitalized_items)}")
     
-x = sum(len(items) for items in shopping_list.values())
-print(f"W sumie kupuję {x} produktów")
+#test
