@@ -10,3 +10,4 @@ for i, j in shopping_list.items():
     print(f"Idę do {i.capitalize()} i kupuję tam: {', '.join(capitalized_items)}")
     
 #test
+print("hello")
