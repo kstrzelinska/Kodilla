@@ -11,3 +11,11 @@ for i, j in shopping_list.items():
     
 #test
 print("hello")
+
+#zad2
+for liczba in range (0,101):
+  if liczba%5 == 0:
+    print(liczba)  
+    print(liczba**3)
+
+
